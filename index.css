@@ -19,8 +19,6 @@
 body {
   font-family: var(--font-family-Roboto);
 }
-main {
-}
 section {
   display: none;
 }
@@ -132,6 +130,9 @@ section button {
 }
 .section-subtitle {
   font-weight: 400;
+}
+.section-subtitle span {
+  font-weight: 700;
 }
 
 @media (min-width: 48rem) {
